@@ -1,7 +1,6 @@
 <h1>To be a Full Stack Developer😍🚀</h1>
 
-
-
+   I'm currently a Student.    
 🙂 I’m currently learning **Reactjs**
 
 👩‍💻 Self Taught developer
