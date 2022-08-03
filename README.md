@@ -1,4 +1,4 @@
-<h1>To be a Web Developer😍🚀</h1>
+<h1>To be a Front end Web Developer😍🚀</h1>
 
 🔭 I’m currently student   
 
@@ -23,11 +23,6 @@
 [<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>]()&nbsp;&nbsp;&nbsp;
 
 
-## ⚡ FrameWorks / Libraries
-
-[<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>]()&nbsp;&nbsp;&nbsp;
-[<img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>]()&nbsp;&nbsp;&nbsp;
-[<img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>]()&nbsp;&nbsp;&nbsp;
 
 ## Tools 
 [<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>]()&nbsp;&nbsp;&nbsp;
