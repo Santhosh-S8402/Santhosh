@@ -2,7 +2,7 @@
 
 🔭 I’m currently student   
 
-🙂 I’m currently learning **javascript**
+🙂 I’m currently learning **DBMS - MySQL**
 
 👩‍💻 Self Taught developer
 
