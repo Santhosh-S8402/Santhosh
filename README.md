@@ -1,8 +1,6 @@
-<h1>To be a Front end Web Developer😍🚀</h1>
+<h1>To be a Front end Web Developer😍🚀</h1>   
 
-🔭 I’m currently student   
-
-🙂 I’m currently learning **DBMS - MySQL**
+🙂 I’m currently learning **ReactJS**
 
 👩‍💻 Self Taught developer
 
